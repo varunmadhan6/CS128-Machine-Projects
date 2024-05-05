@@ -1,0 +1,36 @@
+Building Exp: 5.2, Stamina: 6, Returning Members: 2
+Marge
+Graehme
+Audrie
+Jaquelyn
+Sharla
+
+Building Exp: 5, Stamina: 5.2, Returning Members: 3
+Jarvis
+Barthel
+Leroy
+Marga
+Lana
+
+Building Exp: 5, Stamina: 8.2, Returning Members: 2
+Spud
+Jerrilee
+Clifford
+Garret
+Michail
+
+Building Exp: 5.4, Stamina: 6.8, Returning Members: 3
+Pascale
+Paulette
+Moishe
+Olympe
+Kelwin
+
+Building Exp: 5.8, Stamina: 6.4, Returning Members: 2
+Kathryn
+Arlie
+Wallis
+Goldie
+Michal
+
+

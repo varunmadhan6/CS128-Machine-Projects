@@ -1,0 +1,701 @@
+Building Exp: 7.6, Stamina: 8.4, Returning Members: 1
+Porter
+Calida
+Foster
+Kissee
+Kamilah
+
+Building Exp: 7.4, Stamina: 7.4, Returning Members: 4
+Hunter
+Northrup
+Tomasina
+Tracy
+Marglerite
+
+Building Exp: 6.6, Stamina: 6.2, Returning Members: 2
+Enriqueta
+Todd
+Rand
+Raoul
+Barbara
+
+Building Exp: 8, Stamina: 6.8, Returning Members: 2
+Julee
+Sybille
+Ketty
+Garfinkel
+Rachele
+
+Building Exp: 8.8, Stamina: 8, Returning Members: 1
+Avram
+Colleen
+Miran
+Ferne
+Tammie
+
+Building Exp: 7.8, Stamina: 8.2, Returning Members: 4
+Lebbie
+Gabey
+Gaby
+Nannette
+Lev
+
+Building Exp: 8.6, Stamina: 8.2, Returning Members: 1
+Tiphani
+Roxine
+Karoline
+Blythe
+Alameda
+
+Building Exp: 9, Stamina: 7.8, Returning Members: 3
+Roch
+Cristie
+Rustin
+Melamie
+Roseann
+
+Building Exp: 9.4, Stamina: 6.8, Returning Members: 2
+Batholomew
+Madel
+Sheba
+Coral
+Rickey
+
+Building Exp: 7, Stamina: 5.2, Returning Members: 4
+Rozanne
+Dolorita
+Thorstein
+Tiphany
+Kerstin
+
+Building Exp: 8.4, Stamina: 8, Returning Members: 1
+Aurilia
+Rana
+Lusa
+Jefferson
+Eimile
+
+Building Exp: 9.4, Stamina: 8.4, Returning Members: 3
+Sutherland
+Hadria
+Leonie
+Teressa
+Nisa
+
+Building Exp: 6, Stamina: 8.6, Returning Members: 2
+Cassaundra
+Charmian
+Theodore
+Rachel
+Sergio
+
+Building Exp: 9.2, Stamina: 8.8, Returning Members: 3
+Oran
+Doralynne
+Shalne
+Edin
+Davina
+
+Building Exp: 9.4, Stamina: 8.6, Returning Members: 3
+Dedra
+Winnie
+Francis
+Theo
+Rockwell
+
+Building Exp: 8.2, Stamina: 6.8, Returning Members: 3
+Dolly
+Wendi
+Krysta
+Elna
+Fatima
+
+Building Exp: 9.4, Stamina: 7.8, Returning Members: 5
+Letty
+Mordecai
+Bard
+Kristian
+Kalil
+
+Building Exp: 9.6, Stamina: 4, Returning Members: 1
+Barnaby
+Corie
+Tilly
+Ilona
+Annabela
+
+Building Exp: 7.4, Stamina: 7.8, Returning Members: 3
+Beauregard
+Tracey
+Taffy
+Heida
+Mignon
+
+Building Exp: 9.2, Stamina: 8.2, Returning Members: 3
+Clem
+Kettie
+Burt
+Mandie
+Larissa
+
+Building Exp: 9.2, Stamina: 9, Returning Members: 4
+Rachael
+Karlyn
+Marjorie
+Wynny
+Robin
+
+Building Exp: 9.4, Stamina: 8.6, Returning Members: 3
+Christiano
+Husain
+Em
+Isabel
+Roseanna
+
+Building Exp: 9, Stamina: 8, Returning Members: 3
+Ward
+Haskell
+Marinna
+Baxter
+Jenny
+
+Building Exp: 7, Stamina: 8.8, Returning Members: 1
+Gerty
+Elicia
+Margie
+Newton
+Igor
+
+Building Exp: 8.8, Stamina: 7.8, Returning Members: 3
+Roslyn
+Fanechka
+Sherie
+Sophia
+Cindee
+
+Building Exp: 9, Stamina: 8.8, Returning Members: 5
+Maddie
+Sayres
+Adah
+Averell
+Adorne
+
+Building Exp: 8.4, Stamina: 7.4, Returning Members: 2
+Adel
+Monroe
+Penn
+Leela
+Niels
+
+Building Exp: 5.8, Stamina: 5.4, Returning Members: 3
+Anette
+Elisabet
+Shara
+Yolande
+Conney
+
+Building Exp: 7.4, Stamina: 8.2, Returning Members: 4
+Aleksandrs
+Alisa
+Debbra
+Gustavus
+Fortune
+
+Building Exp: 7.6, Stamina: 7.6, Returning Members: 1
+Gerta
+Jeanelle
+Casper
+Prudi
+Neel
+
+Building Exp: 9, Stamina: 8.8, Returning Members: 4
+Emmye
+Hiram
+Bernadine
+Hedy
+Mariele
+
+Building Exp: 8.4, Stamina: 8.4, Returning Members: 4
+Leopold
+Alvin
+Kane
+Selina
+Aridatha
+
+Building Exp: 8.4, Stamina: 6.6, Returning Members: 1
+Marcelo
+Giorgi
+Keriann
+Isidore
+Karola
+
+Building Exp: 8.8, Stamina: 7.4, Returning Members: 4
+Julissa
+Hartwell
+Frannie
+Greg
+Abbie
+
+Building Exp: 6.6, Stamina: 7.6, Returning Members: 3
+Sullivan
+Doralia
+Pepito
+Josselyn
+Blinni
+
+Building Exp: 9.2, Stamina: 8.2, Returning Members: 2
+Adora
+Marketa
+Heddi
+Inge
+Yancy
+
+Building Exp: 8, Stamina: 7, Returning Members: 2
+Kelcey
+Kandace
+Partha
+Ninnette
+Kin
+
+Building Exp: 7.8, Stamina: 7.6, Returning Members: 1
+Breanne
+Ally
+Fedora
+Sybilla
+Rosalie
+
+Building Exp: 9.2, Stamina: 8.8, Returning Members: 4
+Trudi
+Row
+Leila
+Zorine
+Mikey
+
+Building Exp: 8, Stamina: 7, Returning Members: 5
+Arianne
+Selene
+Jerrome
+Rickie
+Mathilde
+
+Building Exp: 7.4, Stamina: 9.4, Returning Members: 2
+Larina
+Jacquenetta
+Vivianne
+Lucilia
+Pace
+
+Building Exp: 9.6, Stamina: 8.2, Returning Members: 3
+Darda
+Mame
+Angy
+Katusha
+Aubree
+
+Building Exp: 7, Stamina: 6.8, Returning Members: 1
+Linnell
+Othella
+Amandie
+Dorisa
+Nari
+
+Building Exp: 9.4, Stamina: 9, Returning Members: 2
+Fan
+Nettie
+Lyn
+Brynna
+Brigitte
+
+Building Exp: 5.8, Stamina: 5.6, Returning Members: 2
+Tallie
+Maryrose
+Monique
+Ingrid
+Bartholomeo
+
+Building Exp: 9.4, Stamina: 8.2, Returning Members: 4
+Pam
+Maribel
+Dawn
+Rabi
+Sashenka
+
+Building Exp: 9.4, Stamina: 7.8, Returning Members: 1
+Koren
+Raye
+Rea
+Parrnell
+Dasie
+
+Building Exp: 7.4, Stamina: 8.6, Returning Members: 2
+Krystalle
+Frances
+Karita
+Mugsy
+Thedrick
+
+Building Exp: 7.6, Stamina: 7.2, Returning Members: 3
+Valeda
+Friedrich
+Cassi
+Natalia
+Talia
+
+Building Exp: 8.2, Stamina: 7.8, Returning Members: 2
+Shem
+Angeline
+Dulcia
+Wendy
+Avie
+
+Building Exp: 9, Stamina: 8.4, Returning Members: 3
+Herculie
+Rogers
+Alley
+Quigman
+Stearn
+
+Building Exp: 9, Stamina: 8.4, Returning Members: 2
+Trever
+Olva
+Cliff
+Mella
+Josie
+
+Building Exp: 6.8, Stamina: 7.6, Returning Members: 1
+Annalena
+Woodman
+Shanna
+Krystal
+Izzi
+
+Building Exp: 9, Stamina: 7.4, Returning Members: 2
+Marion
+Desiree
+Buck
+Ivie
+Quent
+
+Building Exp: 9, Stamina: 8.4, Returning Members: 1
+Raf
+Cassondra
+Benetta
+Carlye
+Missie
+
+Building Exp: 8.6, Stamina: 5.4, Returning Members: 3
+Briteny
+Hollis
+Gwenette
+Tine
+Kristel
+
+Building Exp: 7.2, Stamina: 7.2, Returning Members: 2
+Terrence
+Benedikta
+Kassandra
+Sibbie
+Joao
+
+Building Exp: 8.8, Stamina: 9, Returning Members: 1
+Cherin
+Tarzan
+Desdemona
+Hermina
+Esta
+
+Building Exp: 6.4, Stamina: 7.2, Returning Members: 1
+Shawn
+Melodee
+Jameson
+Keefe
+Brigida
+
+Building Exp: 9.2, Stamina: 7.8, Returning Members: 1
+Brunella
+Dorise
+Jerri
+Jorey
+Morris
+
+Building Exp: 9.4, Stamina: 7.8, Returning Members: 1
+Joni
+Harrie
+Pavla
+Mariya
+Tiffi
+
+Building Exp: 6.8, Stamina: 6.4, Returning Members: 3
+Ivan
+Maisey
+Lorenza
+Kip
+Oliver
+
+Building Exp: 9, Stamina: 7.2, Returning Members: 3
+Nicki
+Laurent
+Irma
+Maurita
+Konstantin
+
+Building Exp: 9.2, Stamina: 8.8, Returning Members: 4
+Ford
+Ephrem
+Lena
+Clemente
+Anna-Diana
+
+Building Exp: 5.8, Stamina: 7.4, Returning Members: 3
+Aileen
+Roselia
+Charleen
+Candy
+Jamey
+
+Building Exp: 6.8, Stamina: 7.6, Returning Members: 2
+Kynthia
+Derrol
+Maryl
+Krista
+Claudio
+
+Building Exp: 8, Stamina: 8.2, Returning Members: 4
+Dorolice
+Ewan
+Jemimah
+Amy
+Odette
+
+Building Exp: 9, Stamina: 7.4, Returning Members: 3
+Gaven
+Adlai
+Donetta
+Nixie
+Zebulen
+
+Building Exp: 9.2, Stamina: 6.8, Returning Members: 3
+Angelle
+Leontine
+Michaella
+Carree
+Rosamund
+
+Building Exp: 9.2, Stamina: 8, Returning Members: 2
+Elsey
+Natalee
+Fionna
+Cyrus
+Sabine
+
+Building Exp: 9.4, Stamina: 9.4, Returning Members: 3
+Samson
+Lincoln
+Suzetta
+Sonny
+Olympie
+
+Building Exp: 7.8, Stamina: 6.2, Returning Members: 2
+Lorine
+Jaleh
+Shay
+Henrie
+Eleonore
+
+Building Exp: 9.4, Stamina: 8.4, Returning Members: 3
+Annamarie
+Justina
+Hollie
+Robbyn
+Florian
+
+Building Exp: 7, Stamina: 6.8, Returning Members: 2
+Jade
+Evangelin
+Kimball
+Fanni
+Codee
+
+Building Exp: 9.2, Stamina: 8.4, Returning Members: 4
+Sara-Ann
+Mildrid
+Peyton
+Dawna
+Audrye
+
+Building Exp: 8.2, Stamina: 6.6, Returning Members: 1
+Bertha
+Gwenn
+Teodoro
+Meredeth
+Joab
+
+Building Exp: 6, Stamina: 6.6, Returning Members: 2
+Cy
+Hewet
+Noble
+Linnet
+Elijah
+
+Building Exp: 8, Stamina: 7, Returning Members: 1
+Belle
+Trev
+Sanford
+Cherey
+Margurite
+
+Building Exp: 8.8, Stamina: 8, Returning Members: 3
+Guglielma
+Tommi
+Paulo
+Morganne
+Duane
+
+Building Exp: 7.6, Stamina: 7.6, Returning Members: 2
+Starr
+Suzann
+Georgina
+Hillard
+Nicolle
+
+Building Exp: 7.2, Stamina: 7.6, Returning Members: 3
+Laurella
+Saree
+Luella
+Ernest
+Dori
+
+Building Exp: 9.4, Stamina: 8.8, Returning Members: 3
+Ely
+Carroll
+Niccolo
+Jerrie
+Rosana
+
+Building Exp: 9, Stamina: 8.6, Returning Members: 2
+Sammie
+Cissy
+Thad
+Beatriz
+Dyanne
+
+Building Exp: 8.8, Stamina: 6.6, Returning Members: 4
+Elias
+Sylvie
+Minny
+Barthel
+Shalna
+
+Building Exp: 8.4, Stamina: 8.4, Returning Members: 2
+Edyth
+Er
+Vernon
+Hercule
+Reinhold
+
+Building Exp: 6.2, Stamina: 7.4, Returning Members: 4
+Anabella
+Raymund
+Brana
+Betsy
+Minetta
+
+Building Exp: 9.8, Stamina: 8.8, Returning Members: 4
+Ellissa
+Loria
+Myrtle
+Avraham
+Jemima
+
+Building Exp: 9.4, Stamina: 8.2, Returning Members: 1
+Venita
+Beverly
+Abe
+Agatha
+Audry
+
+Building Exp: 7.8, Stamina: 6.4, Returning Members: 4
+Francesmary
+Israel
+Susan
+Giavani
+Jean-Pierre
+
+Building Exp: 7.8, Stamina: 8, Returning Members: 1
+Phillis
+Marysa
+Kamila
+Rani
+Obadiah
+
+Building Exp: 7.6, Stamina: 7.8, Returning Members: 1
+Amandi
+Alis
+Peter
+Corissa
+Carlene
+
+Building Exp: 8.8, Stamina: 9, Returning Members: 2
+Veronique
+Rosanne
+Rice
+Evvy
+Glenna
+
+Building Exp: 7.8, Stamina: 6.8, Returning Members: 3
+Samuele
+Candra
+Juliann
+Madalyn
+Clayborn
+
+Building Exp: 8.6, Stamina: 8.6, Returning Members: 3
+Madelyn
+Marlyn
+Bertine
+Berni
+Iseabal
+
+Building Exp: 5.8, Stamina: 5.8, Returning Members: 2
+Donal
+Laurice
+Spencer
+Fowler
+Ilysa
+
+Building Exp: 8.6, Stamina: 8, Returning Members: 2
+Collete
+Ranique
+Teriann
+Zippy
+Stormi
+
+Building Exp: 9.4, Stamina: 8.6, Returning Members: 3
+Ronny
+Ludwig
+Ciel
+Devondra
+Trip
+
+Building Exp: 7.8, Stamina: 6.6, Returning Members: 4
+Winonah
+Aharon
+Carolann
+Mindy
+Sherill
+
+Building Exp: 7, Stamina: 8.4, Returning Members: 1
+Marlie
+Alan
+Alissa
+Maria
+Reagan
+
+Building Exp: 7.4, Stamina: 8.8, Returning Members: 2
+Gwennie
+Cristine
+Brandice
+Halli
+Else
+
+
